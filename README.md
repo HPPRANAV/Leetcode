@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/HPPRANAV/Leetcode/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/HPPRANAV/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0740-delete-and-earn](https://github.com/HPPRANAV/Leetcode/tree/master/0740-delete-and-earn) |
+| [1025-minimum-cost-for-tickets](https://github.com/HPPRANAV/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/HPPRANAV/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 ## Dynamic Programming
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/HPPRANAV/Leetcode/tree/master/0279-perfect-squares) |
 | [0377-combination-sum-iv](https://github.com/HPPRANAV/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0740-delete-and-earn](https://github.com/HPPRANAV/Leetcode/tree/master/0740-delete-and-earn) |
+| [1025-minimum-cost-for-tickets](https://github.com/HPPRANAV/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/HPPRANAV/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 ## Hash Table
 |  |

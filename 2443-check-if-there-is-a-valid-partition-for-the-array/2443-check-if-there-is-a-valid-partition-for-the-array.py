@@ -1,26 +1,18 @@
 class Solution:
     def validPartition(self, nums: List[int]) -> bool:
-        dp = {}
+        dp = [False] * (len(nums) + 1)
+        dp[0] = True
 
-        def memo(index):
-            if index == len(nums):
-                return True
-            
-            if index in dp:
-                return dp[index]
+        for i in range(2, len(nums)+1):
+            if nums[i-1] == nums[i-2]:
+                dp[i] = dp[i] or dp[i-2]
 
-            res = False
-
-            if index < len(nums) - 1 and nums[index] == nums[index+1]:
-                res = memo(index + 2)
-            if index < len(nums)-2:
-                if(nums[index] == nums[index+1] == nums[index+2]) or (nums[index]+1 == nums[index+1] and nums[index+1]+1 == nums[index+2]):
-                    res = res or memo(index+3)
-            
-            dp[index] = res
-            return res
+            if i >=3:
+                if (nums[i-1] == nums[i-2] == nums[i-3]) or ( nums[i-3] + 1 == nums[i-2] and nums[i-2] + 1 == nums[i-1]):
+                    dp[i] = dp[i] or dp[i-3]
         
-        return memo(0)
+        return dp[len(nums)]
+         
 
         
             

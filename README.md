@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/HPPRANAV/Leetcode/tree/master/0213-house-robber-ii) |
 | [0377-combination-sum-iv](https://github.com/HPPRANAV/Leetcode/tree/master/0377-combination-sum-iv) |
 | [0463-island-perimeter](https://github.com/HPPRANAV/Leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/HPPRANAV/Leetcode/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/HPPRANAV/Leetcode/tree/master/0740-delete-and-earn) |
 | [1025-minimum-cost-for-tickets](https://github.com/HPPRANAV/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/HPPRANAV/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
@@ -40,18 +41,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HPPRANAV/Leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/HPPRANAV/Leetcode/tree/master/0279-perfect-squares) |
 | [0463-island-perimeter](https://github.com/HPPRANAV/Leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/HPPRANAV/Leetcode/tree/master/0695-max-area-of-island) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HPPRANAV/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/HPPRANAV/Leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/HPPRANAV/Leetcode/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HPPRANAV/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/HPPRANAV/Leetcode/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/HPPRANAV/Leetcode/tree/master/0695-max-area-of-island) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HPPRANAV/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/HPPRANAV/Leetcode/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->

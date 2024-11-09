@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/HPPRANAV/Leetcode/tree/master/0740-delete-and-earn) |
 | [1025-minimum-cost-for-tickets](https://github.com/HPPRANAV/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/HPPRANAV/Leetcode/tree/master/1036-rotting-oranges) |
+| [2035-count-sub-islands](https://github.com/HPPRANAV/Leetcode/tree/master/2035-count-sub-islands) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/HPPRANAV/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
 ## Dynamic Programming
 |  |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/HPPRANAV/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/HPPRANAV/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/HPPRANAV/Leetcode/tree/master/1036-rotting-oranges) |
+| [2035-count-sub-islands](https://github.com/HPPRANAV/Leetcode/tree/master/2035-count-sub-islands) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HPPRANAV/Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/HPPRANAV/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/HPPRANAV/Leetcode/tree/master/0695-max-area-of-island) |
+| [2035-count-sub-islands](https://github.com/HPPRANAV/Leetcode/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -57,9 +60,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/HPPRANAV/Leetcode/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/HPPRANAV/Leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/HPPRANAV/Leetcode/tree/master/1036-rotting-oranges) |
+| [2035-count-sub-islands](https://github.com/HPPRANAV/Leetcode/tree/master/2035-count-sub-islands) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HPPRANAV/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/HPPRANAV/Leetcode/tree/master/0695-max-area-of-island) |
+| [2035-count-sub-islands](https://github.com/HPPRANAV/Leetcode/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->

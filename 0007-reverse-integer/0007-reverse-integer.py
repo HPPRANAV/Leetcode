@@ -1,15 +1,20 @@
 class Solution:
     def reverse(self, x: int) -> int:
-        string = ''
-        limit= (2**31)
-        num = str(x)
-        for i in range(len(num)-1, -1, -1):
-            string+=num[i]
+        negative, signed = False, 1<<31
         if x < 0:
-            number = -int(string[:len(num)-1])
-        else:
-            number = int(string)
+            negative = True
+            x*=-1
         
-        if number > limit-1 or number < -limit:
+        res = 0
+        while x > 0:
+            res*=10
+            res+= x%10
+            x = x//10
+        
+        if negative:
+            res*= -1
+        
+        if res >= signed or res < (-signed):
             return 0
-        return number
+        
+        return res

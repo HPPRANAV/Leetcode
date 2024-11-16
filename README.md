@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HPPRANAV/Leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/HPPRANAV/Leetcode/tree/master/0695-max-area-of-island) |
 | [2035-count-sub-islands](https://github.com/HPPRANAV/Leetcode/tree/master/2035-count-sub-islands) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/HPPRANAV/Leetcode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->

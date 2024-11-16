@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/HPPRANAV/Leetcode/tree/master/0007-reverse-integer) |
 | [0279-perfect-squares](https://github.com/HPPRANAV/Leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/HPPRANAV/Leetcode/tree/master/0343-integer-break) |
 ## Breadth-First Search

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/HPPRANAV/Leetcode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/HPPRANAV/Leetcode/tree/master/0050-powx-n) |
 | [0279-perfect-squares](https://github.com/HPPRANAV/Leetcode/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/HPPRANAV/Leetcode/tree/master/0343-integer-break) |
 ## Breadth-First Search
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/HPPRANAV/Leetcode/tree/master/0006-zigzag-conversion) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/HPPRANAV/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

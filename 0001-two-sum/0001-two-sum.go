@@ -1,4 +1,5 @@
 func twoSum(nums []int, target int) []int {
+    runtime.GC()
     hash_set := make(map[int]int)
     //res := []int{}
     for i, num := range nums{

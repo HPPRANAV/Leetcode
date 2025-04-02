@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/HPPRANAV/Leetcode/tree/master/1036-rotting-oranges) |
 | [2035-count-sub-islands](https://github.com/HPPRANAV/Leetcode/tree/master/2035-count-sub-islands) |
 | [2443-check-if-there-is-a-valid-partition-for-the-array](https://github.com/HPPRANAV/Leetcode/tree/master/2443-check-if-there-is-a-valid-partition-for-the-array) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HPPRANAV/Leetcode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 ## Dynamic Programming
 |  |
 | ------- |
